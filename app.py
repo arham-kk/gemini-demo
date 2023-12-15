@@ -7,7 +7,7 @@ from PIL import Image
 # HTML components for the UI
 TITLE = """<h1 align="center">Gemini Playground 💬</h1>"""
 SUBTITLE = """<h2 align="center">Play with Gemini Pro and Gemini Pro Vision</h2>"""
-DUPLICATE = """
+DES = """
 <div style="text-align: center; display: flex; justify-content: center; align-items: center;">
     <span>Run with your own Google Api Key: 
         <a href="https://makersuite.google.com/app/apikey">GOOGLE API KEY</a>.
@@ -149,7 +149,7 @@ bot_inputs = [
 with gr.Blocks() as demo:
     gr.HTML(TITLE)
     gr.HTML(SUBTITLE)
-    gr.HTML(DUPLICATE)
+    gr.HTML(DES)
     with gr.Column():
         google_key_component.render()
         with gr.Row():
