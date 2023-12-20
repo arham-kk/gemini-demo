@@ -4,8 +4,7 @@
 
 Gemini Playground is an interactive Python application that leverages Google Generative AI and Gradio to provide a platform for experimenting with Gemini Pro and Gemini Pro Vision models. Users can engage in dynamic conversations with the chatbot, utilizing text and image prompts to generate creative and context-aware responses.
 
-![ba52b361-47d0-40e8-8c88-b70438ba1b6f](https://github.com/arham-kk/gemini-demo/assets/108623726/cfe6c6d2-1575-4880-aec3-2c8d3e92f7c6)
-
+![img](https://github.com/arham-kk/gemini-demo/assets/108623726/d88a8c82-4fcc-45fd-aea3-4a6a88787200)
 
 ## Prerequisites
 
